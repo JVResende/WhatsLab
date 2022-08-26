@@ -2,7 +2,7 @@
 
 ### O que funciona
 
-- Quando o usuário escrever "eu" no remetende a mensagem vai apra a direita da tela com o fundo verde.
+- Quando o usuário escrever "eu" no remetende a mensagem vai para a direita da tela com o fundo verde.
 - Qualquer outro nome escrito em remetente a mensagem fica na esquerda.
 - A mensagem é enviada clicando o Enter.
 
